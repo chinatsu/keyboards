@@ -3918,7 +3918,7 @@
     (uuid d14605ea-d48f-44ad-a2d7-845f3728e2f2)
     (property "Reference" "SW20" (id 0) (at 78.74 100.33 0))
     (property "Value" "SW_Push" (id 1) (at 78.74 102.87 0))
-    (property "Footprint" "marbastlib-choc:SW_choc_1.25u" (id 2) (at 78.74 102.87 0)
+    (property "Footprint" "marbastlib-choc:SW_choc_1.5u" (id 2) (at 78.74 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 102.87 0)
@@ -4686,7 +4686,7 @@
       (reference "SW19") (unit 1) (value "SW_Push") (footprint "marbastlib-choc:SW_choc_1u")
     )
     (path "/d14605ea-d48f-44ad-a2d7-845f3728e2f2"
-      (reference "SW20") (unit 1) (value "SW_Push") (footprint "marbastlib-choc:SW_choc_1.25u")
+      (reference "SW20") (unit 1) (value "SW_Push") (footprint "marbastlib-choc:SW_choc_1.5u")
     )
     (path "/769ec98f-af4d-4aaf-9ae9-776c0dad85f5"
       (reference "SW21") (unit 1) (value "SW_Push") (footprint "marbastlib-choc:SW_choc_1u")
