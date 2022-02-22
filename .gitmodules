@@ -1,10 +1,10 @@
-[submodule "choc660/Keebio-Parts.pretty"]
-	path = choc660/Keebio-Parts.pretty
+[submodule "choc69/Keebio-Parts.pretty"]
+	path = choc69/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
-[submodule "choc660/keebio-components"]
-	path = choc660/keebio-components
+[submodule "choc69/keebio-components"]
+	path = choc69/keebio-components
 	url = https://github.com/keebio/keebio-components
-[submodule "choc660/marbastlib"]
-	path = choc660/marbastlib
+[submodule "choc69/marbastlib"]
+	path = choc69/marbastlib
 	url = https://github.com/ebastler/marbastlib
 	branch = untested
