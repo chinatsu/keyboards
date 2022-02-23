@@ -8,3 +8,9 @@
 	path = choc69/marbastlib
 	url = https://github.com/ebastler/marbastlib
 	branch = untested
+[submodule "scout/keebio-components"]
+	path = scout/keebio-components
+	url = https://github.com/keebio/keebio-components
+[submodule "scout/Keebio-Parts.pretty"]
+	path = scout/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
