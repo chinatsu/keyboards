@@ -4806,28 +4806,6 @@
 			)
 		)
 	)
-	(global_label "SEMICOLON"
-		(shape input)
-		(at 152.4 137.16 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "42847394-5c74-4227-9d81-13c46ea25cdc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.0895 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "O"
 		(shape input)
 		(at 185.42 29.21 180)
@@ -4978,28 +4956,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "APOSTROPHE"
-		(shape input)
-		(at 152.4 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "50c94e2d-1d23-4091-ab5b-acc19e21443d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 167.6014 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -5972,6 +5928,28 @@
 			)
 		)
 	)
+	(global_label "SEMICOLON"
+		(shape input)
+		(at 152.4 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c15ed796-f23c-4ecc-9858-139601cd2ab4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.0895 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C"
 		(shape input)
 		(at 77.47 62.23 180)
@@ -6122,6 +6100,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "APOSTROPHE"
+		(shape input)
+		(at 152.4 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d5c4cb10-3b1a-41d6-bc57-c7829bd485a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 167.6014 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
