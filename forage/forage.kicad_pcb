@@ -20146,6 +20146,19 @@
 		(layer "Edge.Cuts")
 		(uuid "cbfd145b-3f7e-4901-8d9b-78711230c5ba")
 	)
+	(gr_text "forage version 2.0 by cn, girlypop.no"
+		(at 357.715 105.354 0)
+		(layer "B.SilkS")
+		(uuid "9fe1b3ec-d898-4ce8-8363-93daa24b50b0")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 59.73 111.8)
 		(end 59.69 111.76)
