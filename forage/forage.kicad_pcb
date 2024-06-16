@@ -34355,7 +34355,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "XC6206P322MR"
+		(property "Value" "XC6206P332MR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "cf7007af-a740-46b3-b9e3-00f544df7f7b")
